@@ -14,7 +14,12 @@ positional arguments:
 
 options:
   -h, --help            show this help message and exit
+
   --groups_dir GROUPS_DIR
                         Path to place groups in
   --dry-run
 ```
+
+Looks like this
+
+![](https://github.com/kylosus/screenshot-grouper/assets/33132401/28dd5c2e-75aa-4907-8d86-f63f9febab87)
